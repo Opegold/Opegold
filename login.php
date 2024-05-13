@@ -2,7 +2,7 @@
 // Check if form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Define your credentials
-    $valid_username = "Goldesr";
+    $valid_username = "Goldest";
     $valid_password = "Olarewaju1";
 
     // Get form data
